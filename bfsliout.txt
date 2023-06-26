@@ -1,0 +1,58 @@
+ENTER THE NUUMBER OF VERTICES
+4
+Enter the adjacency LIST 
+Enter 1 for the vertices adjacent to vertex A
+
+Vertex A : 4
+
+Vertex B : ^[[A^Z
+[1]+  Stopped                 ./a.out
+sem4e1@ubuntu:~/Jarvis$ ./a.out
+ENTER THE NUUMBER OF VERTICES
+4
+Enter the adjacency LIST 
+Enter 1 for the vertices adjacent to vertex A
+
+Vertex A : 0  
+
+Vertex B : 1
+
+Vertex C : 1
+
+Vertex D : 0
+Enter 1 for the vertices adjacent to vertex B
+
+Vertex A : 1
+
+Vertex B : 0
+
+Vertex C : 0
+
+Vertex D : 1
+Enter 1 for the vertices adjacent to vertex C
+
+Vertex A : 1
+
+Vertex B : 0
+
+Vertex C : 0
+
+Vertex D : 1
+Enter 1 for the vertices adjacent to vertex D
+
+Vertex A : 0
+
+Vertex B : 1
+
+Vertex C : 1
+
+Vertex D : 0
+THE VERTEX ADJACENT TO A : C B 
+THE VERTEX ADJACENT TO B : D A 
+THE VERTEX ADJACENT TO C : D A 
+THE VERTEX ADJACENT TO D : C B 
+BFS TRAVERSAL STARTING FROM NODE A
+-->A-->C-->B-->Dthe graph is connected 
+
+THE NUMBER OF CONNECTED COMPONENTS ARE 1
+the graph is cyclic
