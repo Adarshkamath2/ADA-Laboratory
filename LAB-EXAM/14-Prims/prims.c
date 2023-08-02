@@ -43,3 +43,4 @@ void main(){
 	
 	printf("Minimum Cost: %d\n",min_cost);
 }
+
